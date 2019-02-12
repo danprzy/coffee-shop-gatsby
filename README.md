@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70a1a87a-e65b-43d9-a458-7db5788a7646/deploy-status)](https://app.netlify.com/sites/coffee-shop-gatsby/deploys)
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
