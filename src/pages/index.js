@@ -6,6 +6,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { FaGulp } from "react-icons/fa";
 import BackgroundHeader from "../components/Globals/BackgroundHeader";
+import Info from "../components/Home/Info";
 
 const IndexPage = ({ data }) => (
   <Layout>
@@ -15,6 +16,7 @@ const IndexPage = ({ data }) => (
       title="coffe shop"
       styleClass="default-background"
     />
+    <Info />
     <FaGulp />
   </Layout>
 );
