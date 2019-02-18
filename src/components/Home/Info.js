@@ -21,7 +21,7 @@ export default function info() {
               inventore quod dolores reiciendis fugit voluptatem, commodi
               ratione ea. Nihil quasi rem quos!
             </p>
-            <Link to="/about/">
+            <Link to="/about">
               <button className="btn text-uppercase btn-yellow">
                 about page
               </button>
