@@ -22,7 +22,7 @@ const IndexPage = ({ data }) => (
     <Info />
     <Menu items={data.menu} />
     <Products />
-    <FaGulp />
+    {/* <FaGulp /> */}
     <Contact />
   </Layout>
 );
